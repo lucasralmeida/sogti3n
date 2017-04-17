@@ -1,10 +1,3 @@
-##FACULDADE DE TECNOLOGIA SENAC
-##Gestão da Tecnologia da Informação
-##Sistemas Operacionais
-##Professor: Francisco Calaça
-
-Lucas Ribeiro de Almeida
-
 ## Atividade 1: Conceitos sobre Multiprogramação e Programação Concorrente.
 
 ### Multiprogramação: 
