@@ -1,7 +1,7 @@
-#FACULDADE DE TECNOLOGIA SENAC
-#Gestão da Tecnologia da Informação
-#Sistemas Operacionais
-#Professor: Francisco Calaça
+##FACULDADE DE TECNOLOGIA SENAC
+##Gestão da Tecnologia da Informação
+##Sistemas Operacionais
+##Professor: Francisco Calaça
 
 Lucas Ribeiro de Almeida
 
